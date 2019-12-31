@@ -1,11 +1,17 @@
-# todo
+# To-Do Single Page Application
 
-## Project setup
+
+## 1- Git clone
+```
+Dê um git clone deste repo: https://github.com/vinimartins/vue-todo.git
+```
+
+## 2- Project setup
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### 3- Compiles and hot-reloads for development
 ```
 npm run serve
 ```
